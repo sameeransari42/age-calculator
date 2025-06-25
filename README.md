@@ -1,0 +1,1 @@
+This is a small web app project that calculates your age based on the birth date you provide. It takes your input, processes the data, and shows your exact age in years, months, and days. A fun and practical way to apply what I’ve been learning in web development!
